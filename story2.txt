@@ -1,3 +1,4 @@
 line1
 This is master branch update for story2
 This is cloning for story2.txt
+This is push of cloned copy
